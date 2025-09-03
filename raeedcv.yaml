@@ -90,17 +90,76 @@ cv:
         summary:
         highlights:
           - Developed computer vision algorithms for the automatic detection of melanoma from non-invasive imagining of skin lesions
-    projects:
-      - name: '[Temper keyboard](https://github.com/raeedcho/temper)'
-        date: 2024
-        summary: A custom wireless, low-profile, split ergonomic keyboard
-        highlights:
-          - Open source hardware (300+ stars on GitHub)
+    'awards, fellowships and grants':
+      - name: 'Neurobiology of Neurological Disease NIH T32 Institutional Training Grant'
+        start_date: 2019
+        end_date: 2021
+        location: University of Pittsburgh
+      - name: 'NCM 2018 Meeting Scholarship'
+        date: 2018
+        location: Society for the Neural Control of Movement
+      - name: 'Cabell Terminal Year Fellowship'
+        start_date: 2017
+        end_date: 2018
+        location: Northwestern University
+      - name: 'NSF Graduate Research Fellowship'
+        start_date: 2012
+        end_date: 2017
+        location: National Science Foundation
+      - name: Cabell Fellowship
+        start_date: 2012
+        end_date: 2013
+        location: Northwestern University
+    community engagement:
+      - name: Get-a-Grip program
+        start_date: 2013
+        end_date: 2018
+        location: Nettlehorst Elementary School
+        summary: "Outreach program with local elementary school to teach fifth graders about engineering"
+      - name: Chicago Brain Awareness Fair (Exhibitor)
+        start_date: 2014
+        end_date: 2015
+        location: Northwestern University
+        summary: "Community science fair to showcase neuroscience to the public"
+    leadership positions:
+      - name: 'Co-President'
+        start_date: 2013
+        end_date: 2018
+        location: Get-a-Grip program
+        summary: "Planned outreach program with local elementary school"
+      - name: 'Recruitment Chair'
+        start_date: 2013
+        end_date: 2018
+        location: BME Graduate Student Organization
+        summary: "Planned departmental recruitment weekend for prospective graduate students"
+    honors and distinctions:
+      - name: Bronze Tablet
+        date: 2011
+        location: University of Illinois at Urbana-Champaign
+        summary: "Awarded to top 3% of graduating class"
+      - name: Chancellor's Scholar
+        start_date: 2008
+        end_date: 2011
+        location: University of Illinois at Urbana-Champaign
+        summary: "Honors program admitting ~125 incoming freshmen based on academic performance"
+    teaching:
+      - name: 'Instructor | BIOE 1150: Bioengineering Methods & Applications'
+        date: 2025
+        location: University of Pittsburgh
+        summary: "Led a module of a rotating lab course about experimental methods in bioscience"
+      - name: 'Guest Lecturer | BIOE 1586: Quantitative Systems Neuroscience'
+        date: "2021, 2025"
+        location: University of Pittsburgh
+        summary: "Delivered a guest lecture on arm movements and somatosensation"
+      - name: 'Teaching Assistant | BME 307: Experimental design'
+        date: 2015
+        location: Northwestern University
+        summary: "Led the lab portion of the course with ~8 contact hours per week"
     skills:
       - label: Areas of expertise
         details: Animal training and behavioral shaping, experimental design, data collection, data analysis/modeling, machine learning, linear algebra, statistics, technical writing
       - label: Programming
-        details: MATLAB, Python, C/C++
+        details: 'MATLAB, Python, C/C++'
       - label: General tools
         details: Linux (Arch, Debian, Ubuntu), version control systems (git, subversion, mercurial), figure design software (Adobe Illustrator)
       - label: Languages
@@ -451,6 +510,12 @@ cv:
         date: 2017-01
         journal: '*Helix Magazine*'
         url: https://www.helix.northwestern.edu/2017/01/25/natures-mysteries-the-sixth-sense-that-coordinates-our-movements/
+    miscellaneous projects:
+      - name: '[Temper keyboard](https://github.com/raeedcho/temper)'
+        date: 2024
+        summary: A custom wireless, low-profile, split ergonomic keyboard
+        highlights:
+          - Open source hardware (300+ stars on GitHub)
 design:
   theme: moderncv
   page:
@@ -460,7 +525,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: rgb(0, 0, 0)
     name: rgb(0, 79, 144)
@@ -502,7 +567,7 @@ design:
     vertical_space_above: 0.55cm
     vertical_space_below: 0.3cm
   entries:
-    date_and_location_width: 4.15cm
+    date_and_location_width: 2.5cm
     left_and_right_margin: 0cm
     horizontal_space_between_columns: 0.4cm
     vertical_space_between_entries: 0.4cm
