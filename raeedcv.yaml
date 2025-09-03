@@ -11,26 +11,6 @@ cv:
     - network: Google Scholar
       username: https://scholar.google.com/citations?user=Ab0Y1pwAAAAJ&hl=en$0
   sections:
-    education:
-      - institution: Northwestern University
-        area: Biomedical Engineering
-        degree: PhD
-        date: 2019
-        location: Evanston, IL, USA
-        summary:
-          "Dissertation: *The contribution of whole-limb kinematics to proprioceptive representations in the central nervous system*"
-      - institution: Northwestern University
-        area: Biomedical Engineering
-        degree: MS
-        date: 2018
-        location: Evanston, IL, USA
-      - institution: University of Illinois at Urbana-Champaign
-        area: Electrical Engineering
-        degree: BS
-        date: 2011
-        location: Champaign, IL, USA
-        summary:
-          "GPA: 3.91"
     research experience:
       - company: Univsersity of Pittsburgh | Aaron Batista Lab
         position: Visiting Research Assistant Professor
@@ -90,6 +70,33 @@ cv:
         summary:
         highlights:
           - Developed computer vision algorithms for the automatic detection of melanoma from non-invasive imagining of skin lesions
+    education:
+      - institution: Northwestern University
+        area: Biomedical Engineering
+        degree: PhD
+        date: 2019
+        location: Evanston, IL, USA
+        summary:
+          "Dissertation: *The contribution of whole-limb kinematics to proprioceptive representations in the central nervous system*"
+      - institution: Northwestern University
+        area: Biomedical Engineering
+        degree: MS
+        date: 2018
+        location: Evanston, IL, USA
+      - institution: University of Illinois at Urbana-Champaign
+        area: Electrical Engineering
+        degree: BS
+        date: 2011
+        location: Champaign, IL, USA
+        summary:
+          "GPA: 3.91"
+    skills:
+      - label: Areas of expertise
+        details: Animal training and behavioral shaping, experimental design, data collection, data analysis/modeling, machine learning, linear algebra, statistics, technical writing
+      - label: Programming
+        details: 'MATLAB, Python, C/C++'
+      - label: General tools
+        details: Linux (Arch, Debian, Ubuntu), version control systems (git, subversion, mercurial), figure design software (Adobe Illustrator)
     'awards, fellowships and grants':
       - name: 'Neurobiology of Neurological Disease NIH T32 Institutional Training Grant'
         start_date: 2019
@@ -155,15 +162,6 @@ cv:
         date: 2015
         location: Northwestern University
         summary: "Led the lab portion of the course with ~8 contact hours per week"
-    skills:
-      - label: Areas of expertise
-        details: Animal training and behavioral shaping, experimental design, data collection, data analysis/modeling, machine learning, linear algebra, statistics, technical writing
-      - label: Programming
-        details: 'MATLAB, Python, C/C++'
-      - label: General tools
-        details: Linux (Arch, Debian, Ubuntu), version control systems (git, subversion, mercurial), figure design software (Adobe Illustrator)
-      - label: Languages
-        details: 'English (native), Bengali (conversational), Spanish (low intermediate)'
     lead publications:
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
