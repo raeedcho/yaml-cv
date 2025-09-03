@@ -1,0 +1,602 @@
+cv:
+  name: Raeed H Chowdhury
+  location: Pittsburgh, PA
+  email: raeed.chowdhury@gmail.com
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: raeedcho
+    - network: GitHub
+      username: raeedcho
+    - network: Google Scholar
+      username: https://scholar.google.com/citations?user=Ab0Y1pwAAAAJ&hl=en$0
+  sections:
+    education:
+      - institution: Northwestern University
+        area: Biomedical Engineering
+        degree: PhD
+        date: 2019
+        location: Evanston, IL, USA
+        summary:
+          "Dissertation: *The contribution of whole-limb kinematics to proprioceptive representations in the central nervous system*"
+      - institution: Northwestern University
+        area: Biomedical Engineering
+        degree: MS
+        date: 2018
+        location: Evanston, IL, USA
+      - institution: University of Illinois at Urbana-Champaign
+        area: Electrical Engineering
+        degree: BS
+        date: 2011
+        location: Champaign, IL, USA
+        summary:
+          "GPA: 3.91"
+    research experience:
+      - company: Univsersity of Pittsburgh | Aaron Batista Lab
+        position: Visiting Research Assistant Professor
+        date:
+        start_date: 2024
+        end_date: present
+      - company: Univsersity of Pittsburgh | Aaron Batista Lab
+        position: Visiting Faculty Lecturer
+        date:
+        start_date: 2023
+        end_date: 2024
+      - company: University of Pittsburgh | Aaron Batista Lab
+        position: Postdoctoral Associate
+        date:
+        start_date: 2019
+        end_date: 2023
+        # location: Pittsburgh, PA, USA
+        summary:
+        highlights:
+          - Studying the neural basis of skilled, feedback-driven movement
+          - Trained monkeys to perform difficult skilled reaching tasks
+          - Analyzed behavioral and neural data from monkey motor cortex as they performed a virtual pole-balancing task
+          - Developed experimental plan to study neural activity in monkeys as they perform a task to move a virtual cup of coffee
+      - company: Northwestern University | Lee Miller Limb Lab
+        position: PhD researcher
+        date:
+        start_date: 2012
+        end_date: 2019
+        summary:
+        highlights:
+          - Performed experiments to study how the neural activity in the brains of monkeys processes proprioception (the sense of body movement) during reaching
+          - Developed and used a motion capture system along with a musculoskeletal model to estimate monkeys’ arm muscle lengths while reaching
+          - Surgically implanted and analyzed data from intramuscular electromyogram (EMG) electrodes in monkeys’ arm muscles during reaching behaviors
+      - company: University of Illinois at Urbana-Champaign | Prashant Mehta Lab
+        position: Research Intern
+        date:
+        start_date: 2011
+        end_date: 2012
+        summary:
+        highlights:
+          - Worked on implementation of novel Feedback Particle Filter, a neural network-like filter for use in estimating quantities given noisy measurements
+      - company: University of Illinois at Urbana-Champaign | Todd Coleman Lab
+        position: Undergraduate Researcher
+        date:
+        start_date: 2010
+        end_date: 2011
+        summary:
+        highlights:
+          - Developed techniques to improve quality of electroencephalography (EEG) recording
+          - Developed applications for novel epidermal electronic tattoos, including subvocal speech recognition using throat electromyography (EMG) (in collaboration with John Rogers Research Group)
+      - company: Stoecker & Associates
+        position: Research Intern
+        date:
+        start_date: 2007
+        end_date: 2012
+        location: Rolla, MO, USA
+        summary:
+        highlights:
+          - Developed computer vision algorithms for the automatic detection of melanoma from non-invasive imagining of skin lesions
+    projects:
+      - name: '[Temper keyboard](https://github.com/raeedcho/temper)'
+        date: 2024
+        summary: A custom wireless, low-profile, split ergonomic keyboard
+        highlights:
+          - Open source hardware (300+ stars on GitHub)
+    skills:
+      - label: Areas of expertise
+        details: Animal training and behavioral shaping, experimental design, data collection, data analysis/modeling, machine learning, linear algebra, statistics, technical writing
+      - label: Programming
+        details: MATLAB, Python, C/C++
+      - label: General tools
+        details: Linux (Arch, Debian, Ubuntu), version control systems (git, subversion, mercurial), figure design software (Adobe Illustrator)
+      - label: Languages
+        details: 'English (native), Bengali (conversational), Spanish (low intermediate)'
+    lead publications:
+      - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
+        authors:
+          - '**Chowdhury, RH**'
+          - Blum, KP
+          - Perich, MG
+          - Miller, LE
+        doi: 
+        url:
+        journal:
+        date: in preparation
+        highlights:
+          - '*Scientific contribution*: Shows that neural activity in proprioceptive cortex does not adapt as monkeys adapt to reaching through perburbations.'
+          - '*Author contribution*: Experimental design, data collection (neural and behavioral data), data analysis (signal processing, data modeling), writing and editing manuscript.'
+      - title: Area 2 of primary somatosensory cortex encodes kinematics of the whole arm
+        authors:
+          - '**Chowdhury, RH**'
+          - Glaser, JI
+          - Miller, LE
+        doi: 10.7554/elife.48198
+        url:
+        journal: '*eLife*'
+        date: 2020-01
+        highlights:
+          - '*Scientific contribution*: Showed how the neural activity in an area of the brain in monkeys represents feedback about arm movement during reaching and passive perturbations'
+          - '*Author contribution*: Experimental design, data collection (neural data, motion capture), data analysis (signal processing, musculoskeletal modeling, fitting models of neural activity to behavior), writing and editing manuscript.'
+      - title: Musculoskeletal geometry accounts for apparent endpoint representation in dorsal spinocerebellar tract
+        authors:
+          - '**Chowdhury, RH**'
+          - Tresch, MC
+          - Miller, LE
+        doi: 10.1152/jn.00695.2016
+        url:
+        journal: '*Journal of Neurophysiology*'
+        date: 2017-07
+        highlights:
+          - '*Scientific contribution*: Used computational model simulation to show that some key results from a classic spinal cord study were a direct consequence of muscle arrangement.'
+          - '*Author contribution*: Computational modeling, data analysis, writing and editing manuscript.'
+    collaborative publications:
+      - title: A generalist intracortical motor decoder
+        authors:
+          - Ye, J
+          - Rizzoglio, F
+          - Smoulder, A
+          - Mao, H
+          - Ma, X
+          - Marino, P
+          - '**Chowdhury, RH**'
+          - Moore, D
+          - Blumenthal, G
+          - Hockeimer, W
+          - Kunigk, NG
+          - Mayo, JP
+          - Batista, A
+          - Chase, S
+          - Rouse, A
+          - Boninger, ML
+          - Greenspon, C
+          - Schwartz, AB
+          - Hatsopoulos, NG
+          - Miller, LE
+          - Bouchard, KE
+          - Collinger, JL
+          - Wehbe, L
+          - Gaunt, R
+        doi: 10.1101/2025.02.02.634313
+        journal: '*bioRxiv*'
+        date: 2025-02
+      - title: Inferring control objectives in a virtual balancing task in humans and monkeys
+        authors:
+          - Sadeghi, M
+          - Razavian, RS
+          - Bazzi, S
+          - '**Chowdhury, RH**'
+          - Batista, AP
+          - Loughlin, PJ
+          - Sternad, D
+        date: 2024-05
+        journal: '*eLife*'
+        doi: 10.7554/eLife.88514.3
+      - title: Motor cortex retains and reorients neural dynamics during motor imagery
+        authors:
+          - Dekleva, BM
+          - '**Chowdhury, RH**'
+          - Batista, AP
+          - Chase, SM
+          - Yu, BM
+          - Boninger, ML
+          - Collinger, JL
+        date: 2024-04
+        journal: '*Nature Human Behaviour*'
+        doi: 10.1038/s41562-023-01804-5
+      - title: A large-scale neural network training framework for generalized estimation of single-trial population dynamics
+        authors:
+          - Keshtkaran, MR
+          - Sedler, AR
+          - '**Chowdhury, RH**'
+          - Tandon, R
+          - Basrai, D
+          - Nguyen, SL
+          - Sohn, H
+          - Jazayeri, M
+          - Miller, LE
+          - Pandarinath, C
+        doi: 10.1038/s41592-022-01675-0
+        url:
+        journal: '*Nature Methods*'
+        date: 2022-12
+        highlights:
+          - '*Scientific contribution*: Introduced an improvement over the state-of-the-art modeling technique for neural data, allowing for application to a wide variety of brain regions.'
+          - '*Author contribution*: Data collection, data analysis, writing and editing manuscript.'
+      - title: Small, correlated changes in synaptic connectivity may facilitate rapid motor learning
+        authors:
+          - Feulner, B
+          - Perich, MG
+          - '**Chowdhury, RH**'
+          - Miller, LE
+          - Gallego, JA
+          - Clopath, C
+        journal: '*Nature Communications*'
+        date: 2022-09
+        doi: 10.1038/s41467-022-32646-w
+      - title: Local field potentials reflect cortical population dynamics in a region-specific and frequency-dependent manner
+        authors:
+          - Gallego-Carracedo, C
+          - Perich, MG
+          - '**Chowdhury, RH**'
+          - Miller, LE
+          - Gallego, JA
+        journal: '*eLife*'
+        date: 2022-08
+        doi: 10.7554/eLife.73155
+      - title: "Neural Latents Benchmark '21: Evaluating latent variable models of neural population activity"
+        authors:
+          - Pei, F
+          - Ye, J
+          - Zoltowski, D
+          - Wu, A
+          - '**Chowdhury, RH**'
+          - Sohn, H
+          - O'Doherty, JE
+          - Shenoy, KV
+          - Kaufman, MT
+          - Churchland, M
+          - Jazayeri, M
+          - Miller, LE
+          - Pillow, J
+          - Park, IM
+          - Dyer, EL
+          - Pandarinath, C
+        doi: 10.48550/arXiv.2109.04463
+        url:
+        journal: '*arXiv*'
+        date: 2021-09
+        highlights:
+          - '*Scientific contribution*: Introduced a Kaggle-style competition to develop computational models and improve the understanding of neural signals from various areas of the brain.'
+          - '*Author contribution*: Data collection, planning, and editing manuscript.'
+      - title: 'Cuneate nucleus: The somatosensory gateway to the brain'
+        authors:
+          - Versteeg, C
+          - '**Chowdhury, RH**'
+          - Miller, LE
+        date: 2021-04
+        journal: '*Current opinion in physiology*'
+        doi: 10.1016/j.cophys.2021.02.004
+      - title: "Proprioception: a sense to facilitate action"
+        authors:
+          - Blum, KP
+          - Versteeg, C
+          - Sombeck, J
+          - '**Chowdhury, RH**'
+          - Miller, LE
+        date: 2021-01
+        journal: '*Somatosensory feedback for neuroprosthetics*'
+        doi: 10.1016/B978-0-12-822828-9.00017-4
+      - title: Machine learning for neural decoding
+        authors:
+          - Glaser, JI
+          - Benjamin, AS
+          - '**Chowdhury, RH**'
+          - Perich, MG
+          - Miller, LE
+          - Kording, KP
+        date: 2020-07
+        journal: '*eneuro*'
+        doi: 10.1523/ENEURO.0506-19.2020
+      - title: Long-term stability of cortical population dynamics underlying consistent behavior
+        authors:
+          - Gallego, JA
+          - Perich, MG
+          - '**Chowdhury, RH**'
+          - Solla, SA
+          - Miller, LE
+        doi: 10.1038/s41593-019-0555-4
+        journal: '*Nature Neuroscience*'
+        date: 2020-02
+        highlights:
+          - '*Scientific contribution*: Showed a stability in the neural activity of several brain regions over a period of months to years that may be related to consistently executed behaviors.'
+          - '*Author contribution*: Data collection, writing, and editing manuscript.'
+      - title: Neural networks for modeling neural spiking in S1 cortex
+        authors:
+          - Lucas, A
+          - Tomlinson, T
+          - Rohani, N
+          - '**Chowdhury, RH**'
+          - Solla, SA
+          - Katsaggelos, AK
+          - Miller, LE
+        date: 2019-03
+        journal: '*Frontiers in systems neuroscience*'
+        doi: 10.3389/fnsys.2019.00013
+      - title: Highlights from the 28th Annual Meeting of the Society for the Neural Control of Movement
+        authors:
+          - Mazurek, KA
+          - Berger, M
+          - Bollu, T
+          - '**Chowdhury, RH**'
+          - Elangovan, N
+          - Kuling, IA
+          - Sohn, MH
+        date: 2018-10
+        journal: '*Journal of neurophysiology*'
+        doi: 10.1152/jn.00475.2018
+      - title: Modern machine learning as a benchmark for fitting neural responses
+        authors:
+          - Benjamin, AS
+          - Fernandes, HL
+          - Tomlinson, T
+          - Ramkumar, P
+          - VerSteeg, C
+          - '**Chowdhury, RH**'
+          - Miller, LE
+          - Kording, KP
+        date: 2018-07
+        journal: '*Frontiers in computational neuroscience*'
+        doi: 10.3389/fncom.2018.00056
+      - title: Methodological considerations for a chronic neural interface with the cuneate nucleus of macaques
+        authors:
+          - Suresh, AK
+          - Winberry, JE
+          - Versteeg, C
+          - '**Chowdhury, RH**'
+          - Tomlinson, T
+          - Rosenow, JM
+          - Miller, LE
+          - Bensmaia, SJ
+        date: 2017-12
+        journal: '*Journal of neurophysiology*'
+        doi: 10.1152/jn.00436.2017
+      - title: The median split algorithm for detection of critical melanoma color features
+        authors:
+          - Ghantasala, KVSN
+          - '**Chowdhury, RH**'
+          - Guntupalli, U
+          - Hagerty, J
+          - Moss, RH
+          - Rader, RK
+          - Stoecker, WV
+        date: 2013-02
+        journal: '*International Conference on Computer Vision Theory and Applications*'
+        doi: 10.5220/0004304904920495
+      - title: Epidermal Electronics
+        authors:
+          - Kim, D
+          - Lu, N
+          - Ma, R
+          - Kim, Y
+          - Kim, R
+          - Wang, S
+          - Wu, J
+          - Won, SM
+          - Tao, H
+          - Islam, A
+          - Yu, KJ
+          - Kim, T
+          - '**Chowdhury, RH**'
+          - Ying, M
+          - Xu, L
+          - Li, M
+          - Chung, H
+          - Keum, H
+          - McCormick, M
+          - Liu, P
+          - Zhang, Y
+          - Omenetto, FG
+          - Huang, Y
+          - Coleman, T
+          - Rogers, JA
+        date: 2011-08
+        journal: '*Science*'
+        doi: 10.1126/science.1206157
+      - title: Detection of granularity in dermoscopy images of malignant melanoma using color and texture features
+        authors:
+          - Stoecker, WV
+          - Wronkiewiecz, M
+          - '**Chowdhury, RH**'
+          - Stanley, RJ
+          - Xu, J
+          - Bangert, A
+          - Shrestha, B
+          - Calcara, DA
+          - Rabinovitz, HS
+          - Oliviero, M
+          - Ahmed, F
+          - Perry, LA
+          - Drugge, R
+        date: 2011-03
+        journal: '*Computerized medical imagining and graphics*'
+        doi: 10.1016/j.compmedimag.2010.09.005
+      - title: Detection of basal cell carcinoma using color and histogram measures of semitranslucent areas
+        authors:
+          - Stoecker, WV
+          - Gupta, K
+          - Shrestha, B
+          - Wronkiewiecz, M
+          - '**Chowdhury, RH**'
+          - Stanley, RJ
+          - Xu, J
+          - Moss, RH
+          - Celebi, ME
+          - Rabinovitz, HS
+          - Oliviero, M
+          - Malters, JM
+          - Kolm, I
+        date: 2009-08
+        journal: '*Skin research and technology*'
+        doi: 10.1111/j.1600-0846.2009.00354.x
+    science communication:
+      - title: Reaching into the future
+        authors:
+          - '**Chowdhury, RH**'
+        date: 2024-09
+        journal: '*eLife*'
+        doi: 10.7554/eLife.101739
+      - title: Our hidden sixth sense
+        authors:
+          - '**Chowdhury, RH**'
+        date: 2017-03
+        journal: '*Seven Minutes of Science*'
+        url: https://www.youtube.com/watch?v=mBa2j6-h9IU
+      - title: "Nature’s Mysteries: the sixth sense that coordinates our movements"
+        authors:
+          - '**Chowdhury, RH**'
+        date: 2017-01
+        journal: '*Helix Magazine*'
+        url: https://www.helix.northwestern.edu/2017/01/25/natures-mysteries-the-sixth-sense-that-coordinates-our-movements/
+design:
+  theme: moderncv
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Fontin
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: Fontin
+    name_font_size: 25pt
+    name_bold: false
+    # small_caps_for_name: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Fontin
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    # use_urls_as_placeholders_for_connections: false
+    # make_connections_links: true
+    alignment: left
+  section_titles:
+    type: moderncv
+    font_family: Fontin
+    font_size: 1.4em
+    bold: false
+    small_caps: false
+    line_thickness: 0.15cm
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.4cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    # nested_bullet: '-'
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.19cm
+    horizontal_space_between_bullet_and_highlight: 0.3em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+        SUMMARY
+        HIGHLIGHTS
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+        SUMMARY
+        HIGHLIGHTS
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-03-01'
+  bold_keywords: []
