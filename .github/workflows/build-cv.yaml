@@ -1,0 +1,41 @@
+#.github/workflows/build-cv.yml
+
+name: Build and Deploy CV
+
+# Trigger the workflow on every push to the main branch
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Use a standard Linux runner
+
+    steps:
+      # Step 1: Check out the repository's code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Specify a Python version
+
+      # Step 3: Install RenderCV and its dependencies
+      - name: Install RenderCV
+        run: pip install "rendercv[full]"
+
+      # Step 4: Run RenderCV to build the documents
+      # This command reads resume.yaml and generates the PDF and other files.
+      - name: Build CV artifacts
+        run: rendercv render resume.yaml
+
+      # Step 5: Upload the generated PDF as a workflow artifact
+      # This makes the PDF downloadable from the "Summary" page of the Actions run.
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Raeed-CV
+          path: "*.pdf" # Upload any file ending in.pdf
