@@ -38,4 +38,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Raeed-CV
-          path: "*.pdf" # Upload any file ending in.pdf
+          path: "rendercv_output/*.pdf" # Upload any file ending in.pdf
