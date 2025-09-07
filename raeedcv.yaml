@@ -12,12 +12,12 @@ cv:
       username: https://scholar.google.com/citations?user=Ab0Y1pwAAAAJ&hl=en$0
   sections:
     research experience:
-      - company: Univsersity of Pittsburgh | Aaron Batista Lab
+      - company: University of Pittsburgh | Aaron Batista Lab
         position: Visiting Research Assistant Professor
         date:
         start_date: 2024
         end_date: present
-      - company: Univsersity of Pittsburgh | Aaron Batista Lab
+      - company: University of Pittsburgh | Aaron Batista Lab
         position: Visiting Faculty Lecturer
         date:
         start_date: 2023
@@ -98,6 +98,10 @@ cv:
       - label: General tools
         details: Linux (Arch, Debian, Ubuntu), version control systems (git, subversion, mercurial), figure design software (Adobe Illustrator)
     'awards, fellowships and grants':
+      - name: 'Center for the Neural Basis of Cognition Collaboration Award'
+        start_date: 2024
+        end_date: 2025
+        location: University of Pittsburgh
       - name: 'Neurobiology of Neurological Disease NIH T32 Institutional Training Grant'
         start_date: 2019
         end_date: 2021
@@ -157,11 +161,63 @@ cv:
       - name: 'Guest Lecturer | BIOE 1586: Quantitative Systems Neuroscience'
         date: "2021, 2025"
         location: University of Pittsburgh
-        summary: "Delivered a guest lecture on arm movements and somatosensation"
+        summary: "Delivered guest lectures on arm movements and somatosensation"
       - name: 'Teaching Assistant | BME 307: Experimental design'
         date: 2015
         location: Northwestern University
         summary: "Led the lab portion of the course with ~8 contact hours per week"
+    conference talks:
+      - name: "Are neural mechanisms of discrete movements re-used for more interactive tasks?"
+        date: 2025-08
+        location: "Simian Collective Meeting, Durham, NC, USA"
+        summary: "One of seven trainee talks selected from a competitive pool of abstracts"
+      - name: "Motor activity evolves differently for feedback-driven and feedforward movements"
+        date: 2024-09
+        location: "Simian Collective Meeting, Pittsburgh, PA, USA"
+        summary: 'One of several short "poster teaser" talks selected based on poster abstracts'
+      - name: "Monkeys exhibit flexible control strategies in a virtual balancing task"
+        date: 2021-04
+        location: "Neural Control of Movement Meeting, Virtual"
+        summary: '5-minute "blitz" talk'
+      - name: "Reinterpreting CNS proprioceptive activity in terms of musculoskeletal mechanics"
+        date: 2018-05
+        location: "Neural Control of Movement Meeting, Santa Fe, NM, USA"
+        summary: 'Part of a panel of presentations "Reinterpreting proprioception based on musculoskeletal mechanics"'
+      - name: "Sensory Manifolds"
+        date: 2018-05
+        location: "M5, Chicago, IL, USA"
+        summary: 'Presentation to set up discussion of neural manifolds in non-motor areas'
+    poster presentations:
+      - name: "Motor activity evolves differently for feedback-driven and feedforward movements"
+        date: 2024-09
+        location: "Simian Collective Meeting, Pittsburgh, PA, USA"
+      - name: "Feedback-driven and feedforward movements have shared and unique aspects in motor cortical activity"
+        date: 2024-07
+        location: "Gordon Research Conference on the Neurobiology of Cognition, Waterville Valley, NH, USA"
+      - name: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        date: 2023-11
+        location: "Society for Neuroscience Meeting, Washington, DC, USA"
+      - name: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        date: 2023-04
+        location: "Neural Control of Movement Meeting, Victoria, BC, Canada"
+      - name: "Neural activity in primary motor cortex as a monkey performs a virtual balancing task"
+        date: 2022-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - name: "Muscle kinematics play a large role in primary somatosensory cortical neural activity"
+        date: 2018-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - name: "The importance of muscle kinematics to the neural activity of proprioceptive somatosensory cortex"
+        date: 2018-05
+        location: "Janelia Conference on the Mechanisms of Dextrous Behavior, Ashburn, VA, USA"
+      - name: "Integration of force and movement representation in proprioceptive area 2 of primary somatosensory cortex"
+        date: 2017-11
+        location: "Society for Neuroscience Meeting, Washington, DC, USA"
+      - name: "Proprioceptive representations of arm movement in Area 3a of macaques"
+        date: 2015-10
+        location: "American Physician Scientists Association Midwest Meeting, St. Louis, MO, USA"
+      - name: "Endpoint-like representations of limb state from combinations of muscle spindle outputs: A simulation study of the effects of musculoskeletal geometry on neural coding"
+        date: 2013-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
     lead publications:
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
@@ -174,7 +230,7 @@ cv:
         journal:
         date: in preparation
         highlights:
-          - '*Scientific contribution*: Shows that neural activity in proprioceptive cortex does not adapt as monkeys adapt to reaching through perburbations.'
+          - '*Scientific contribution*: Shows that neural activity in proprioceptive cortex does not adapt as monkeys adapt to reaching through perturbations.'
           - '*Author contribution*: Experimental design, data collection (neural and behavioral data), data analysis (signal processing, data modeling), writing and editing manuscript.'
       - title: Area 2 of primary somatosensory cortex encodes kinematics of the whole arm
         authors:
@@ -469,7 +525,7 @@ cv:
           - Perry, LA
           - Drugge, R
         date: 2011-03
-        journal: '*Computerized medical imagining and graphics*'
+        journal: '*Computerized medical imaging and graphics*'
         doi: 10.1016/j.compmedimag.2010.09.005
       - title: Detection of basal cell carcinoma using color and histogram measures of semitranslucent areas
         authors:
