@@ -28,9 +28,9 @@ jobs:
         run: pip install "rendercv[full]"
 
       # Step 4: Run RenderCV to build the documents
-      # This command reads resume.yaml and generates the PDF and other files.
+      # This command reads raeedcv.yaml and generates the PDF and other files.
       - name: Build CV artifacts
-        run: rendercv render resume.yaml
+        run: rendercv render raeedcv.yaml
 
       # Step 5: Upload the generated PDF as a workflow artifact
       # This makes the PDF downloadable from the "Summary" page of the Actions run.
