@@ -232,7 +232,7 @@ cv:
       - name: "Endpoint-like representations of limb state from combinations of muscle spindle outputs: A simulation study of the effects of musculoskeletal geometry on neural coding"
         date: 2013-11
         location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-    lead publications:
+    publications:
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
           - '**Chowdhury, RH**'
@@ -246,31 +246,6 @@ cv:
         highlights:
           - '*Scientific contribution*: Shows that neural activity in proprioceptive cortex does not adapt as monkeys adapt to reaching through perturbations.'
           - '*Author contribution*: Experimental design, data collection (neural and behavioral data), data analysis (signal processing, data modeling), writing and editing manuscript.'
-      - title: Area 2 of primary somatosensory cortex encodes kinematics of the whole arm
-        authors:
-          - '**Chowdhury, RH**'
-          - Glaser, JI
-          - Miller, LE
-        doi: 10.7554/elife.48198
-        url:
-        journal: '*eLife*'
-        date: 2020-01
-        highlights:
-          - '*Scientific contribution*: Showed how the neural activity in an area of the brain in monkeys represents feedback about arm movement during reaching and passive perturbations'
-          - '*Author contribution*: Experimental design, data collection (neural data, motion capture), data analysis (signal processing, musculoskeletal modeling, fitting models of neural activity to behavior), writing and editing manuscript.'
-      - title: Musculoskeletal geometry accounts for apparent endpoint representation in dorsal spinocerebellar tract
-        authors:
-          - '**Chowdhury, RH**'
-          - Tresch, MC
-          - Miller, LE
-        doi: 10.1152/jn.00695.2016
-        url:
-        journal: '*Journal of Neurophysiology*'
-        date: 2017-07
-        highlights:
-          - '*Scientific contribution*: Used computational model simulation to show that some key results from a classic spinal cord study were a direct consequence of muscle arrangement.'
-          - '*Author contribution*: Computational modeling, data analysis, writing and editing manuscript.'
-    collaborative publications:
       - title: A generalist intracortical motor decoder
         authors:
           - Ye, J
@@ -431,6 +406,18 @@ cv:
         highlights:
           - '*Scientific contribution*: Showed a stability in the neural activity of several brain regions over a period of months to years that may be related to consistently executed behaviors.'
           - '*Author contribution*: Data collection, writing, and editing manuscript.'
+      - title: Area 2 of primary somatosensory cortex encodes kinematics of the whole arm
+        authors:
+          - '**Chowdhury, RH**'
+          - Glaser, JI
+          - Miller, LE
+        doi: 10.7554/elife.48198
+        url:
+        journal: '*eLife*'
+        date: 2020-01
+        highlights:
+          - '*Scientific contribution*: Showed how the neural activity in an area of the brain in monkeys represents feedback about arm movement during reaching and passive perturbations'
+          - '*Author contribution*: Experimental design, data collection (neural data, motion capture), data analysis (signal processing, musculoskeletal modeling, fitting models of neural activity to behavior), writing and editing manuscript.'
       - title: Neural networks for modeling neural spiking in S1 cortex
         authors:
           - Lucas, A
@@ -481,6 +468,18 @@ cv:
         date: 2017-12
         journal: '*Journal of neurophysiology*'
         doi: 10.1152/jn.00436.2017
+      - title: Musculoskeletal geometry accounts for apparent endpoint representation in dorsal spinocerebellar tract
+        authors:
+          - '**Chowdhury, RH**'
+          - Tresch, MC
+          - Miller, LE
+        doi: 10.1152/jn.00695.2016
+        url:
+        journal: '*Journal of Neurophysiology*'
+        date: 2017-07
+        highlights:
+          - '*Scientific contribution*: Used computational model simulation to show that some key results from a classic spinal cord study were a direct consequence of muscle arrangement.'
+          - '*Author contribution*: Computational modeling, data analysis, writing and editing manuscript.'
       - title: The median split algorithm for detection of critical melanoma color features
         authors:
           - Ghantasala, KVSN
