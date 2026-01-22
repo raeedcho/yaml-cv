@@ -13,10 +13,15 @@ cv:
   sections:
     research experience:
       - company: University of Pittsburgh | Aaron Batista Lab
+        position: Research Assistant Professor
+        date:
+        start_date: 2025
+        end_date: present
+      - company: University of Pittsburgh | Aaron Batista Lab
         position: Visiting Research Assistant Professor
         date:
         start_date: 2024
-        end_date: present
+        end_date: 2025
       - company: University of Pittsburgh | Aaron Batista Lab
         position: Visiting Faculty Lecturer
         date:
@@ -34,7 +39,7 @@ cv:
           - Trained monkeys to perform difficult skilled reaching tasks
           - Analyzed behavioral and neural data from monkey motor cortex as they performed a virtual pole-balancing task
           - Developed experimental plan to study neural activity in monkeys as they perform a task to move a virtual cup of coffee
-      - company: Northwestern University | Lee Miller Limb Lab
+      - company: Northwestern University | Miller Limb Lab
         position: PhD researcher
         date:
         start_date: 2012
@@ -188,6 +193,15 @@ cv:
         location: "M5, Chicago, IL, USA"
         summary: 'Presentation to set up discussion of neural manifolds in non-motor areas'
     poster presentations:
+      - name: "Neural mechanisms of discrete movements are re-used for more interactive tasks"
+        date: 2025-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - name: "Subjective value is encoded in motor cortex"
+        date: 2025-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - name: "Neural mechanisms of discrete movements are re-used for more interactive tasks"
+        date: 2025-11
+        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
       - name: "Motor activity evolves differently for feedback-driven and feedforward movements"
         date: 2024-09
         location: "Simian Collective Meeting, Pittsburgh, PA, USA"
