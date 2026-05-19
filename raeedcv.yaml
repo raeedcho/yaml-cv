@@ -193,45 +193,328 @@ cv:
         location: "M5, Chicago, IL, USA"
         summary: 'Presentation to set up discussion of neural manifolds in non-motor areas'
     poster presentations:
-      - name: "Neural mechanisms of discrete movements are re-used for more interactive tasks"
+      - title: "Motor cortex encodes subjective value"
+        authors:
+          - Miyata, S
+          - '**Chowdhury, RH**'
+          - Smoulder, A
+          - Zambre, M
+          - Wen, J
+          - Oby, ER
+          - Batista, AP
+          - Chase, SM
+        date: 2026-04
+        journal: "Neural Control of Movement Meeting, Osaka, Japan"
+      - title: "Subjective value signals in the primate motor cortex reflect both the value of the action and the value of inaction"
+        authors:
+          - Miyata, S
+          - '**Chowdhury, RH**'
+          - Smoulder, A
+          - Zambre, M
+          - Wen, J
+          - Oby, ER
+          - Batista, AP
+          - Chase, SM
+        date: 2026-03
+        journal: "Cosyne Meeting, Cascais, Portugal"
+      - title: "Subjective value is encoded in motor cortex"
+        authors:
+          - Miyata, S
+          - '**Chowdhury, RH**'
+          - Smoulder, A
+          - Zambre, M
+          - Wen, J
+          - Oby, ER
+          - Batista, AP
+          - Chase, SM
         date: 2025-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-      - name: "Subjective value is encoded in motor cortex"
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - title: "Neural mechanisms of discrete movements are re-used for more interactive tasks"
+        authors:
+          - '**Chowdhury, RH**'
+          - Dekleva, BM
+          - Karpowicz, B
+          - Oby, ER
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2025-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-      - name: "Neural mechanisms of discrete movements are re-used for more interactive tasks"
-        date: 2025-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-      - name: "Motor activity evolves differently for feedback-driven and feedforward movements"
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - title: "Integration of corollary discharge and sensory feedback signals in somatosensory cortex"
+        authors:
+          - An, X
+          - '**Chowdhury, RH**'
+          - Blum, KP
+          - Miller, LE
+          - Glaser, JI
+        date: 2025-03
+        journal: "Cosyne Main Meeting, Montreal, QC, Canada"
+        summary: "Talk presentation (T-27)"
+      - title: "Motor activity evolves differently for feedback-driven and feedforward movements"
+        authors:
+          - '**Chowdhury, RH**'
+          - Dekleva, BM
+          - Karpowicz, B
+          - Oby, ER
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2024-09
-        location: "Simian Collective Meeting, Pittsburgh, PA, USA"
-      - name: "Feedback-driven and feedforward movements have shared and unique aspects in motor cortical activity"
+        journal: "Simian Collective Meeting, Pittsburgh, PA, USA"
+      - title: "Feedback-driven and feedforward movements have shared and unique aspects in motor cortical activity"
+        authors:
+          - '**Chowdhury, RH**'
+          - Oby, ER
+          - Karpowicz, B
+          - Dekleva, BM
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2024-07
-        location: "Gordon Research Conference on the Neurobiology of Cognition, Waterville Valley, NH, USA"
-      - name: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        journal: "Gordon Research Conference on the Neurobiology of Cognition, Waterville Valley, NH, USA"
+      - title: "Integration of corollary discharge and sensory feedback signals in somatosensory cortex"
+        authors:
+          - An, X
+          - '**Chowdhury, RH**'
+          - Blum, KP
+          - Miller, LE
+          - Glaser, JI
+        date: 2024-04
+        journal: "Neural Control of Movement Meeting, Dubrovnik, Croatia"
+      - title: "Intracortical local field potentials as stable signals for across-user brain-computer interface control"
+        authors:
+          - Gallego-Carracedo, C
+          - Perich, MG
+          - '**Chowdhury, RH**'
+          - Miller, LE
+          - Gallego, JA
+        date: 2024-04
+        journal: "Neural Control of Movement Meeting, Dubrovnik, Croatia"
+      - title: "Dissociation of efference copy and afferent feedback signals in somatosensory cortex"
+        authors:
+          - An, X
+          - '**Chowdhury, RH**'
+          - Glaser, JI
+        date: 2024-02
+        journal: "Cosyne Meeting, Lisbon, Portugal"
+      - title: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        authors:
+          - '**Chowdhury, RH**'
+          - Oby, ER
+          - Karpowicz, B
+          - Dekleva, BM
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2023-11
-        location: "Society for Neuroscience Meeting, Washington, DC, USA"
-      - name: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        journal: "Society for Neuroscience Meeting, Washington, DC, USA"
+      - title: "Neural activity in motor cortex evolves differently for continuously feedback-driven movements compared to discrete reaches"
+        authors:
+          - '**Chowdhury, RH**'
+          - Oby, ER
+          - Karpowicz, B
+          - Dekleva, BM
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2023-04
-        location: "Neural Control of Movement Meeting, Victoria, BC, Canada"
-      - name: "Neural activity in primary motor cortex as a monkey performs a virtual balancing task"
+        journal: "Neural Control of Movement Meeting, Victoria, BC, Canada"
+      - title: "Neural activity in primary motor cortex as a monkey performs a virtual balancing task"
+        authors:
+          - '**Chowdhury, RH**'
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - Oby, ER
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
         date: 2022-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-      - name: "Muscle kinematics play a large role in primary somatosensory cortical neural activity"
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - title: "Identifying the control strategies of monkeys and humans in a virtual balancing task"
+        authors:
+          - Sadeghi, M
+          - Sharif Razavian, R
+          - Bazzi, S
+          - '**Chowdhury, RH**'
+          - Loughlin, PJ
+          - Batista, AP
+          - Sternad, D
+        date: 2022-03
+        journal: "Cosyne Meeting, Lisbon, Portugal"
+      - title: "Local field potentials reflect cortical population dynamics in a region-specific and frequency-dependent manner"
+        authors:
+          - Gallego-Carracedo, C
+          - Perich, MG
+          - '**Chowdhury, RH**'
+          - Miller, LE
+          - Gallego, JA
+        date: 2022-07
+        journal: "Neural Control of Movement Meeting, Dublin, Ireland"
+      - title: "Advancing the investigation of neural population structure with the Neural Latents Benchmark"
+        authors:
+          - Pei, FC
+          - Ye, J
+          - Sedler, AR
+          - Zoltowski, DM
+          - Wu, A
+          - '**Chowdhury, RH**'
+          - Sohn, H
+          - O'Doherty, JE
+          - Shenoy, KV
+          - Kaufman, MT
+          - Churchland, MM
+          - Jazayeri, M
+          - Miller, LE
+          - Dyer, EL
+          - Park, IM
+          - Pillow, JW
+          - Pandarinath, C
+        date: 2021-11
+        journal: "Society for Neuroscience Meeting, Virtual"
+      - title: "Computational principles of motor adaptation"
+        authors:
+          - Feulner, B
+          - Perich, MG
+          - Miller, LE
+          - '**Chowdhury, RH**'
+          - Gallego, JA
+          - Clopath, C
+        date: 2021-02
+        journal: "Cosyne Meeting, Virtual"
+      - title: "AutoLFADS: A large-scale neural network training framework for generalized estimation of single-trial population dynamics"
+        authors:
+          - Keshtkaran, MR
+          - Tandon, R
+          - Basrai, D
+          - Nguyen, SL
+          - '**Chowdhury, RH**'
+          - Sohn, H
+          - Jazayeri, M
+          - Miller, LE
+          - Pandarinath, C
+        date: 2020-02
+        journal: "Cosyne Meeting, Denver, CO, USA"
+      - title: "Modeled muscle spindle primary afferents predict firing rates of cuneate nucleus neurons in the awake monkey"
+        authors:
+          - Versteeg, C
+          - Blum, KP
+          - Wallner, J
+          - Snyder, S
+          - '**Chowdhury, RH**'
+          - Rosenow, JM
+          - Miller, LE
+        date: 2019-10
+        journal: "Society for Neuroscience Meeting, Chicago, IL, USA"
+      - title: "Lateral connectivity may underlie cortical organization of proprioception"
+        authors:
+          - Blum, KP
+          - Wu, Y
+          - '**Chowdhury, RH**'
+          - Faisal, AA
+          - Miller, LE
+        date: 2019-10
+        journal: "Society for Neuroscience Meeting, Chicago, IL, USA"
+      - title: "A stable, long-term cortical signature underlying consistent behavior"
+        authors:
+          - Gallego, JA*
+          - Perich, MG*
+          - '**Chowdhury, RH**'
+          - Solla, SA
+          - Miller, LE
+        date: 2019-04
+        journal: "Neural Control of Movement Meeting, Toyama, Japan"
+      - title: "Muscle kinematics play a large role in primary somatosensory cortical neural activity"
+        authors:
+          - '**Chowdhury, RH**'
+          - Versteeg, C
+          - Tomlinson, T
+          - Sombeck, J
+          - Miller, LE
         date: 2018-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
-      - name: "The importance of muscle kinematics to the neural activity of proprioceptive somatosensory cortex"
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - title: "Divergent encoding of arm kinematics in the cuneate nucleus and primary somatosensory cortex"
+        authors:
+          - Versteeg, C
+          - Gasper, ER
+          - '**Chowdhury, RH**'
+          - Tomlinson, T
+          - Miller, LE
+        date: 2018-11
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
+      - title: "The importance of muscle kinematics to the neural activity of proprioceptive somatosensory cortex"
+        authors:
+          - '**Chowdhury, RH**'
+          - London, BM
+          - Sombeck, J
+          - Versteeg, C
+          - Tomlinson, T
+          - Miller, LE
         date: 2018-05
-        location: "Janelia Conference on the Mechanisms of Dextrous Behavior, Ashburn, VA, USA"
-      - name: "Integration of force and movement representation in proprioceptive area 2 of primary somatosensory cortex"
+        journal: "Janelia Conference on the Mechanisms of Dextrous Behavior, Ashburn, VA, USA"
+      - title: "Integration of force and movement representation in proprioceptive area 2 of primary somatosensory cortex"
+        authors:
+          - '**Chowdhury, RH**'
+          - London, BM
+          - Sombeck, J
+          - Versteeg, C
+          - Tomlinson, T
+          - Miller, LE
         date: 2017-11
-        location: "Society for Neuroscience Meeting, Washington, DC, USA"
-      - name: "Proprioceptive representations of arm movement in Area 3a of macaques"
+        journal: "Society for Neuroscience Meeting, Washington, DC, USA"
+      - title: "Movement characteristics encoded by single neurons in the cuneate nucleus of an awake behaving rhesus macaque"
+        authors:
+          - Versteeg, C
+          - '**Chowdhury, RH**'
+          - Tomlinson, T
+          - Rosenow, JM
+          - Miller, LE
+        date: 2017-11
+        journal: "Society for Neuroscience Meeting, Washington, DC, USA"
+      - title: "Modern machine learning tools for neural decoding"
+        authors:
+          - Glaser, JI
+          - '**Chowdhury, RH**'
+          - Perich, MG
+          - Miller, LE
+          - Kording, KP
+        date: 2017-02
+        journal: "Cosyne Meeting, Salt Lake City, UT, USA"
+      - title: "Proprioceptive representations of arm movement in Area 3a of macaques"
+        authors:
+          - '**Chowdhury, RH**'
+          - Tomlinson, T
+          - Miller, LE
         date: 2015-10
-        location: "American Physician Scientists Association Midwest Meeting, St. Louis, MO, USA"
-      - name: "Endpoint-like representations of limb state from combinations of muscle spindle outputs: A simulation study of the effects of musculoskeletal geometry on neural coding"
+        journal: "American Physician Scientists Association Midwest Meeting, St. Louis, MO, USA"
+      - title: "Endpoint-like representations of limb state from combinations of muscle spindle outputs: A simulation study of the effects of musculoskeletal geometry on neural coding"
+        authors:
+          - '**Chowdhury, RH**'
+          - London, BM
+          - Tresch, MC
+          - Miller, LE
         date: 2013-11
-        location: "Society for Neuroscience Meeting, San Diego, CA, USA"
+        journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
     publications:
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
@@ -591,15 +874,16 @@ design:
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: true
-    show_last_updated_date: false
+    show_footer: true
+    show_top_note: true
   colors:
-    text: rgb(0, 0, 0)
+    body: rgb(0, 0, 0)
     name: rgb(0, 79, 144)
     connections: rgb(0, 79, 144)
     section_titles: rgb(0, 79, 144)
     links: rgb(0, 79, 144)
-    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
   text:
     font_family: Fontin
     font_size: 10pt
@@ -608,7 +892,7 @@ design:
     date_and_location_column_alignment: right
   links:
     underline: true
-    use_external_link_icon: false
+    show_external_link_icon: false
   header:
     name_font_family: Fontin
     name_font_size: 25pt
@@ -692,10 +976,10 @@ design:
         HIGHLIGHTS
       date_and_location_column_template: DATE
 locale:
-  language: en
+  language: english
   phone_number_format: national
   page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  last_updated_date_template: Last updated in TODAY
+  last_updated: Last updated in TODAY
   date_template: MONTH_ABBREVIATION YEAR
   month: month
   months: months
@@ -703,7 +987,7 @@ locale:
   years: years
   present: present
   to: –
-  abbreviations_for_months:
+  month_abbreviations:
     - Jan
     - Feb
     - Mar
@@ -716,7 +1000,7 @@ locale:
     - Oct
     - Nov
     - Dec
-  full_names_of_months:
+  month_names:
     - January
     - February
     - March
@@ -729,6 +1013,6 @@ locale:
     - October
     - November
     - December
-rendercv_settings:
-  date: '2025-03-01'
+settings:
+  current_date: '2026-05-19'
   bold_keywords: []
