@@ -1,2 +1,6 @@
+rendercv_output/
 .DS_Store
-rendercv_output
+__pycache__/
+*.pyc
+.cv_*_.yaml
+ 
