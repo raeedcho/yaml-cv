@@ -537,6 +537,16 @@ cv:
         highlights:
           - '*Scientific contribution*: Shows that neural activity in proprioceptive cortex does not adapt as monkeys adapt to reaching through perturbations.'
           - '*Author contribution*: Experimental design, data collection (neural and behavioral data), data analysis (signal processing, data modeling), writing and editing manuscript.'
+      - title: Flexible integration of corollary discharge and sensory feedback signals in somatosensory cortex
+        authors:
+          - An, X
+          - '**Chowdhury, RH**'
+          - Blum, KP
+          - Miller, LE
+          - Glaser, JI
+        doi: 10.64898/2026.04.02.716126
+        journal: '*bioRxiv*'
+        date: 2026-04
       - title: A generalist intracortical motor decoder
         authors:
           - Ye, J
