@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # Specify a Python version
+          python-version: '3.12' # Specify a Python version
 
       # Step 3: Install RenderCV and its dependencies
       - name: Install RenderCV

@@ -75,7 +75,7 @@ cv:
         summary:
         highlights:
           - Developed computer vision algorithms for the automatic detection of melanoma from non-invasive imagining of skin lesions
-    education:
+    'education ':
       - institution: Northwestern University
         area: Biomedical Engineering
         degree: PhD
@@ -95,7 +95,7 @@ cv:
         location: Champaign, IL, USA
         summary:
           "GPA: 3.91"
-    skills:
+    'skills ':
       - label: Areas of expertise
         details: Animal training and behavioral shaping, experimental design, data collection, data analysis/modeling, machine learning, linear algebra, statistics, technical writing
       - label: Programming
@@ -158,13 +158,21 @@ cv:
         end_date: 2011
         location: University of Illinois at Urbana-Champaign
         summary: "Honors program admitting ~125 incoming freshmen based on academic performance"
-    teaching:
+    'teaching experience':
       - name: 'Instructor | BIOE 1150: Bioengineering Methods & Applications'
-        date: 2025
+        date: 2025, 2026
         location: University of Pittsburgh
         summary: "Led a module of a rotating lab course about experimental methods in bioscience"
+      - name: 'Guest Lecturer | MSNBIO 2102: Systems Neurobiology'
+        date: 2026
+        location: University of Pittsburgh
+        summary: "Delivered guest lecture on neural population dynamics in sensorimotor systems"
+      - name: 'Guest Lecturer | BIOE 1351: Biosignal Acquisition and Analysis'
+        date: "2024, 2025"
+        location: University of Pittsburgh
+        summary: "Delivered guest lectures on brain-computer interfaces and machine learning for neural decoding"
       - name: 'Guest Lecturer | BIOE 1586: Quantitative Systems Neuroscience'
-        date: "2021, 2025"
+        date: "2021, 2025, 2026"
         location: University of Pittsburgh
         summary: "Delivered guest lectures on arm movements and somatosensation"
       - name: 'Teaching Assistant | BME 307: Experimental design'
@@ -515,7 +523,7 @@ cv:
           - Miller, LE
         date: 2013-11
         journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
-    publications:
+    'publications ':
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
           - '**Chowdhury, RH**'
@@ -878,10 +886,10 @@ design:
     show_top_note: true
   colors:
     body: rgb(0, 0, 0)
-    name: rgb(0, 79, 144)
-    connections: rgb(0, 79, 144)
-    section_titles: rgb(0, 79, 144)
-    links: rgb(0, 79, 144)
+    name: rgb(0, 0, 0)
+    connections: rgb(128, 128, 128)
+    section_titles: rgb(194, 106, 47)
+    links: rgb(194, 106, 47)
     footer: rgb(128, 128, 128)
     top_note: rgb(128, 128, 128)
   typography:
