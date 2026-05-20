@@ -874,6 +874,7 @@ cv:
         summary: A custom wireless, low-profile, split ergonomic keyboard
         highlights:
           - Open source hardware (450+ stars on GitHub)
+
 design:
   theme: moderncv
   page:
@@ -986,6 +987,7 @@ design:
         SUMMARY
         HIGHLIGHTS
       date_and_location_column: DATE
+
 locale:
   language: english
   last_updated: Last updated in
@@ -1020,6 +1022,32 @@ locale:
     - October
     - November
     - December
+
 settings:
   current_date: '2026-05-19'
   bold_keywords: []
+
+profiles:
+  teaching:
+    sections:
+      - education
+      - teaching experience
+      - research experience
+      - publications
+      - science communication
+      - skills
+      - awards, fellowships and grants
+  research:
+    sections:
+      - research experience
+      - education
+      - publications
+      - conference talks
+      - poster presentations
+      - awards, fellowships and grants
+      - skills
+  short:
+    sections:
+      - education
+      - research experience
+      - skills
