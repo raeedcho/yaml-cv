@@ -17,6 +17,9 @@ cv:
         date:
         start_date: 2025
         end_date: present
+        highlights:
+          - Developing closed-loop electrical stimulation methods to control neural dynamics in motor cortex
+          - Mentoring graduate students and postdoctoral researchers in data collection, analysis, and presentation
       - company: University of Pittsburgh | Aaron Batista Lab
         position: Visiting Research Assistant Professor
         date:
@@ -35,10 +38,8 @@ cv:
         # location: Pittsburgh, PA, USA
         summary:
         highlights:
-          - Studying the neural basis of skilled, feedback-driven movement
-          - Trained monkeys to perform difficult skilled reaching tasks
+          - Studied the neural basis of skilled and interactive feedback-driven movement
           - Analyzed behavioral and neural data from monkey motor cortex as they performed a virtual pole-balancing task
-          - Developed experimental plan to study neural activity in monkeys as they perform a task to move a virtual cup of coffee
       - company: Northwestern University | Miller Limb Lab
         position: PhD researcher
         date:
@@ -49,6 +50,7 @@ cv:
           - Performed experiments to study how the neural activity in the brains of monkeys processes proprioception (the sense of body movement) during reaching
           - Developed and used a motion capture system along with a musculoskeletal model to estimate monkeys' arm muscle lengths while reaching
           - Surgically implanted and analyzed data from intramuscular electromyogram (EMG) electrodes in monkeys' arm muscles during reaching behaviors
+          - Generated several open datasets of electrophysiological and behavioral data that have become a benchmark for computational neuroscience methods
       - company: University of Illinois at Urbana-Champaign | Prashant Mehta Lab
         position: Research Intern
         date:
@@ -201,9 +203,17 @@ cv:
         location: "M5, Chicago, IL, USA"
         summary: 'Presentation to set up discussion of neural manifolds in non-motor areas'
     poster presentations:
+      - title: "Plans for investigating interactive task neural dynamics and learning how to shape them"
+        authors:
+          - '**Chowdhury, RH**'
+          - Hwang, SH
+          - Arakeri, TJ
+          - Batista, AP
+        date: 2026-11
+        journal: "SCENE Annual Meeting, New York, NY, USA"
       - title: "Motor cortex encodes subjective value"
         authors:
-          - Miyata, S
+          - Miyata, H
           - '**Chowdhury, RH**'
           - Smoulder, A
           - Zambre, M
@@ -215,7 +225,7 @@ cv:
         journal: "Neural Control of Movement Meeting, Osaka, Japan"
       - title: "Subjective value signals in the primate motor cortex reflect both the value of the action and the value of inaction"
         authors:
-          - Miyata, S
+          - Miyata, H
           - '**Chowdhury, RH**'
           - Smoulder, A
           - Zambre, M
@@ -227,7 +237,7 @@ cv:
         journal: "Cosyne Meeting, Cascais, Portugal"
       - title: "Subjective value is encoded in motor cortex"
         authors:
-          - Miyata, S
+          - Miyata, H
           - '**Chowdhury, RH**'
           - Smoulder, A
           - Zambre, M
@@ -524,6 +534,28 @@ cv:
         date: 2013-11
         journal: "Society for Neuroscience Meeting, San Diego, CA, USA"
     'publications ':
+      - title: "Motor cortex encodes subjective value"
+        authors:
+          - '(tentative authors) Miyata, H'
+          - '**Chowdhury, RH**'
+          - Batista, AP
+          - Chase, SM
+        doi:
+        journal:
+        date: in preparation
+      - title: "Motor cortical activity during a feedback-driven interactive task"
+        authors:
+          - '(tentative authors) **Chowdhury, RH**'
+          - Oby, ER
+          - Dekleva, BM
+          - Karpowicz, B
+          - Pandarinath, C
+          - Loughlin, PJ
+          - Sternad, D
+          - Batista, AP
+        journal:
+        doi: 
+        date: in preparation
       - title: Proprioceptive cortex provides veridical feedback of arm movement and forces during force field adaptation
         authors:
           - '**Chowdhury, RH**'
@@ -545,7 +577,7 @@ cv:
           - Miller, LE
           - Glaser, JI
         doi: 10.64898/2026.04.02.716126
-        journal: '*bioRxiv*'
+        journal: '*bioRxiv*, in review at *Nature Communications*'
         date: 2026-04
       - title: A generalist intracortical motor decoder
         authors:
@@ -573,9 +605,9 @@ cv:
           - Collinger, JL
           - Wehbe, L
           - Gaunt, R
-        doi: 10.1101/2025.02.02.634313
-        journal: '*bioRxiv*'
-        date: 2025-02
+        doi: 10.52202/085713-3692
+        journal: '*NeurIPS Proceedings*'
+        date: 2026-04
       - title: Inferring control objectives in a virtual balancing task in humans and monkeys
         authors:
           - Sadeghi, M
@@ -1034,5 +1066,5 @@ locale:
     - December
 
 settings:
-  current_date: '2026-05-19'
+  current_date: '2026-10-21'
   bold_keywords: []
